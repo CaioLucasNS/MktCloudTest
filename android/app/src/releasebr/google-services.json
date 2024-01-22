@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "836363463853",
+    "firebase_url": "https://meu-volkswagen-190917.firebaseio.com",
+    "project_id": "meu-volkswagen-190917",
+    "storage_bucket": "meu-volkswagen-190917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836363463853:android:36608507ee1c96d9",
+        "android_client_info": {
+          "package_name": "br.com.vw.connected.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836363463853-me088alijdnim90donij54ssn6qqo8rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.vw.connected.car",
+            "certificate_hash": "f4989080bd31278fb8547e18c671b19134450d0d"
+          }
+        },
+        {
+          "client_id": "836363463853-g02ibuct18n1goro1kkkecom3r8g6k50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qxNCPlRXXXnIS6e-tSIwBVwB2AkuLtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836363463853-g02ibuct18n1goro1kkkecom3r8g6k50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836363463853-2jqovt01819u21gi4pjlkfo49i04d4g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "volkswagen.vw-connected-car"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836363463853:android:c1a120d7b7e64fb86d6a24",
+        "android_client_info": {
+          "package_name": "br.com.vw.connected.car.argentina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836363463853-g02ibuct18n1goro1kkkecom3r8g6k50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qxNCPlRXXXnIS6e-tSIwBVwB2AkuLtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836363463853-g02ibuct18n1goro1kkkecom3r8g6k50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836363463853-2jqovt01819u21gi4pjlkfo49i04d4g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "volkswagen.vw-connected-car"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

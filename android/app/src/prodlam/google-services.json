@@ -1,0 +1,407 @@
+{
+  "project_info": {
+    "project_number": "219226264714",
+    "firebase_url": "https://meu-volkswagen-beta-default-rtdb.firebaseio.com",
+    "project_id": "meu-volkswagen-beta",
+    "storage_bucket": "meu-volkswagen-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:a9eb595dfa06f2ec474973",
+        "android_client_info": {
+          "package_name": "br.com.vw.connected.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:912945c228efdbe5474973",
+        "android_client_info": {
+          "package_name": "br.com.vw.connected.car.homolog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:9db5a77825907529474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:2b5c4a531b2d8e57474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:aabe84af4868e902474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.devar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:c7604513a38b08bc474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.devbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:7fb263cc2dac2cc7474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.devlam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:5619cf6e31c2c5fc474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.lam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:2f51988393bb749d474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.uatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:dcd0e1085f527968474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.uatbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219226264714:android:831bea51a0ff7179474973",
+        "android_client_info": {
+          "package_name": "com.my_vw_global.uatlam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtBY4X7zz65iUHX0WxlRgzJMpFCo9Zzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219226264714-jmjn46l0nuhi187g5u1ui50a1qct73s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219226264714-10de0gde36rpb5oetegd19fin03k9etf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-vw-global.devar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

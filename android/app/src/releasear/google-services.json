@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "810686110708",
+    "firebase_url": "https://mi-volkswagen-sam.firebaseio.com",
+    "project_id": "mi-volkswagen-sam",
+    "storage_bucket": "mi-volkswagen-sam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810686110708:android:9c64c627fbcd528a9137a1",
+        "android_client_info": {
+          "package_name": "br.com.vw.connected.car.argentina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810686110708-n80uja2r1k23ok7k600a4fn3r07dgeko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMLhYHLhUDRco_G22HFQZxnIw2BMPcRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810686110708-n80uja2r1k23ok7k600a4fn3r07dgeko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810686110708-7g7r9i0vj5bj5oejqk2cqt6hnsk6bkth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.volkswagen.mivw",
+                "app_store_id": "1622631392"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810686110708:android:bc53d98627a4eb889137a1",
+        "android_client_info": {
+          "package_name": "com.vw.connected.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810686110708-n80uja2r1k23ok7k600a4fn3r07dgeko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMLhYHLhUDRco_G22HFQZxnIw2BMPcRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810686110708-n80uja2r1k23ok7k600a4fn3r07dgeko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810686110708-7g7r9i0vj5bj5oejqk2cqt6hnsk6bkth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.volkswagen.mivw",
+                "app_store_id": "1622631392"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810686110708:android:15885ca237579fe09137a1",
+        "android_client_info": {
+          "package_name": "com.vw.connected.car.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810686110708-n80uja2r1k23ok7k600a4fn3r07dgeko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMLhYHLhUDRco_G22HFQZxnIw2BMPcRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810686110708-n80uja2r1k23ok7k600a4fn3r07dgeko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810686110708-7g7r9i0vj5bj5oejqk2cqt6hnsk6bkth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.volkswagen.mivw",
+                "app_store_id": "1622631392"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
