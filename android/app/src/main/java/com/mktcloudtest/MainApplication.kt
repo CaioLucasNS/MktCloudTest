@@ -36,7 +36,26 @@ class MainApplication : Application(), ReactApplication {
   override fun onCreate() {
     super.onCreate()
     SoLoader.init(this, false)
-    if (BuildConfig.IS_NEW_ARCHITECTURE_ENABLED) {
+
+      SFMCSdk.configure(this as Context, SFMCSdkModuleConfig.build { builder ->
+          builder.setPushModuleConfig(MarketingCloudConfig.builder()
+                  .setApplicationId("{MC_APP_ID}")
+                  .setAccessToken("{MC_ACCESS_TOKEN}")
+                  .setSenderId("{FCM_SENDER_ID_FOR_MC_APP}")
+                  .setMarketingCloudServerUrl("{MC_APP_SERVER_URL}")
+                  .setNotificationCustomizationOptions(NotificationCustomizationOptions.create(R.drawable.ic_notification))
+                  .setAnalyticsEnabled(true)
+                  .build(this))
+          null
+      }) { initializationStatus ->
+          Log.e("TAG", "STATUS $initializationStatus")
+          if (initializationStatus.getStatus() === 1) {
+              Log.e("TAG", "STATUS SUCCESS")
+          }
+          null
+      }
+
+      if (BuildConfig.IS_NEW_ARCHITECTURE_ENABLED) {
       // If you opted-in for the New Architecture, we load the native entry point for this app.
       load()
     }
